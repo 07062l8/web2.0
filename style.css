@@ -130,6 +130,9 @@ form button:hover {
 #img1{
     float: right;
     margin-left: 35px;
+    border-radius: 50%;
+    width: 256px;
+    height: 320px;
 }
 
 .img2{
